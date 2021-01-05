@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.navigation-bar{
+    margin-top: 5%;
+    margin-right: 7%;
+}
+.navigation-bar ul{
+    margin: 0;
+    padding: 0;
+    
+}
+.navigation-bar li{
+    float: right;
+    list-style-type: none;
+     
+    
+}
+.navigation-bar a{
+    text-decoration: none;
+    color: rgb(24, 23, 23);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 13px;
+    padding: 12px;
+    
+}
+
+
