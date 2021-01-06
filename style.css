@@ -6,6 +6,7 @@ body{
 .navigation-bar{
     margin-top: 5%;
     margin-right: 7%;
+    padding-bottom: 60px;
 }
 .navigation-bar ul{
     margin: 0;
@@ -21,10 +22,90 @@ body{
 .navigation-bar a{
     text-decoration: none;
     color: rgb(24, 23, 23);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Impact;
     font-size: 13px;
-    padding: 12px;
+    padding: 13px;
+   
     
 }
 
 
+h1{
+    font-size: 70px;
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: normal;
+    line-height: 18px;
+    
+}
+
+.name-highlight{
+    color: #FF8367;
+    font-size: 70px;
+    font-family: 'Bebas Neue', cursive;
+    
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-bottom: 5%;
+    
+}
+.half-width img{
+    width: 100%;
+    padding-top: 10px;
+}
+p{
+    color: #3E3E3E;
+    font-family: 'Roboto';
+    padding-bottom: 20px; 
+}
+
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg, rgb(245, 70, 70), rgb(235, 62, 62)) ;
+    font-weight:700 ;
+    color: rgb(253, 253, 253);
+    padding: 10px 40px;
+    border-radius:5px ;
+    
+}
+
+h2{
+    color: #363958;
+    font-size: 40px;
+    font-family: 'Bebas Neue';
+    font-weight: normal;
+    line-height: 10px;
+}
+.layer-one{
+    
+    border: 1px solid beige;
+    padding: 30%;
+    background: rgb(236, 240, 241);
+    margin-top: 85%;
+    margin-bottom: 30%;
+    
+}
+.working{
+    color: #363958;
+    font-size: 40px;
+    font-family: 'Bebas Neue';
+    font-weight: normal;
+    
+}
+.color-lastet{
+    color:#FF8367;
+    font-size: 40px;
+    font-family: 'Bebas Neue';
+    font-weight: normal;
+
+}
+.center{
+    padding-top: 90%;
+    text-align: center;
+
+}
